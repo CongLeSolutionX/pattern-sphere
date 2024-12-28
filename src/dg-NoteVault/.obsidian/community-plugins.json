@@ -3,5 +3,7 @@
   "hot-reload",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "diagram-zoom-drag",
+  "guid-front-matter"
 ]
