@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Connecting_Design_Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000 Home"
+              "title": "Backlinks for Connecting_Design_Patterns"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Connecting_Design_Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Home"
+              "title": "Outgoing links from Connecting_Design_Patterns"
             }
           },
           {
@@ -138,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Connecting_Design_Patterns.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Connecting_Design_Patterns"
             }
           }
         ],
@@ -148,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 414
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,31 +166,5 @@
   },
   "active": "8f566f3bebe2ccd0",
   "lastOpenFiles": [
-    "NOTES_VAULT",
-    "014 Customer path and permalink.md",
-    "015 Code blocks.md",
-    "001 Links.md",
-    "000 Home.md",
-    "Path Rewriting/004 Folder set to root.md",
-    "009 Comments.md",
-    "008 Pinned note.md",
-    "007 Custom permalink.md",
-    "005 Custom filters.md",
-    "004 Publishing this garden.md",
-    "003 Non published page.md",
-    "002 Hidden page.md",
-    "Path Rewriting/Subfolder/How deep do the rewrite rules go?.md",
-    "010 custom createdAt.md",
-    "011 Custom updatedAt.md",
-    "012 Callouts.md",
-    "012-B Callouts less broken.md",
-    "013 Custom path.md",
-    "Testing page.md",
-    "0 QA hell/File with code blocks.md",
-    "0 QA hell/Empty file.md",
-    "0 QA hell/0 File with headers.md",
-    "L Links/01 Link to header.md",
-    "0 QA hell/1 File with bookmarked block.md",
-    "0 QA hell/Break links + transclusions.md"
   ]
 }

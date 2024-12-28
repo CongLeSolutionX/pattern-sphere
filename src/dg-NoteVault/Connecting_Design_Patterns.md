@@ -4,6 +4,8 @@ author: Cong Le
 version: "1.0"
 license(s): MIT, CC BY 4.0
 dg-publish: true
+dg-home: true
+id: 01JG6GJADDMYC3XNV88TT19PBZ
 ---
 
 # Connecting Design Patterns in iOS Development - Style 1
