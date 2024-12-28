@@ -33,4 +33,3 @@ This garden should have the following plugins
 - [x] hot reload (reloads obsidian dev plugins on changes)
 
 
-/digi
