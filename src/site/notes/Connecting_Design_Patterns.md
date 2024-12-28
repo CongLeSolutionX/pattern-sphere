@@ -1,5 +1,5 @@
 ---
-{"created":"2024-11-05 05:01:39","author":"Cong Le","version":"1.0","license(s)":"MIT, CC BY 4.0","dg-publish":true,"permalink":"/connecting-design-patterns/","dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2024-11-05 05:01:39","author":"Cong Le","version":"1.0","license(s)":"MIT, CC BY 4.0","dg-publish":true,"dg-home":true,"id":"01JG6GJADDMYC3XNV88TT19PBZ","permalink":"/connecting-design-patterns/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
