@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-home/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/000-home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## Welcome
@@ -31,3 +31,6 @@ This garden should have the following plugins
 - [x] [[P Plugins/PE Excalidraw/PE1 Transcluded excalidraw\|PE1 Transcluded excalidraw]]
 - [x] [[P Plugins/PD Dataview/PD1 Dataview\|PD1 Dataview]]
 - [x] hot reload (reloads obsidian dev plugins on changes)
+
+
+/digi

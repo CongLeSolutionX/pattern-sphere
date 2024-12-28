@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-custom-filters/"}
+{"dg-publish":true,"permalink":"/005-custom-filters/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
